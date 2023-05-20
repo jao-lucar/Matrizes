@@ -1,7 +1,6 @@
 #Matriz original A = [aij]mXn
 #Matriz Transposta T = [aji]nXm
 
-
 from random import randint
 
 #cria uma matriz de exemplo acordo com i= quantidade de linhas e j= quantidade de colunas
